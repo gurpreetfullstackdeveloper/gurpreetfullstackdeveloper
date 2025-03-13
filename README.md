@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **PHP, MySQL, Wordpress, Laravel, jQuery, JavaScript, Joomla 2.5, Drupal 7, HTML, CSS, REST API**
 
-- 📫 How to reach me **gurpreet.singh1346@gmail.com**
+- 📫 How to reach me **gurpreet.singh1436@gmail.com**
 
 - 📄 Know about my experiences [https://gurpreetfullstackdeveloper.com](https://gurpreetfullstackdeveloper.com)
 
