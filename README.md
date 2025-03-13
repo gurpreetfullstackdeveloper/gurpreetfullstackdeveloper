@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gurpreet Singh</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/gurpreetfullstackdeveloper/gurpreetfullstackdeveloper/blob/main/header10.png">
+<img align="right" alt="coding" width="400" src="https://github.com/gurpreetfullstackdeveloper/gurpreetfullstackdeveloper/blob/main/header4.jpg">
 
 - 🔭 I’m currently working on [Personal Portfolio](https://gurpreetfullstackdeveloper.com)
 
